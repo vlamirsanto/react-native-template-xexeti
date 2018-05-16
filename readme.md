@@ -1,4 +1,4 @@
-# Xexeti
+# react-native-template-xexeti
 
 React Native template com ambiente de desenvolvimento, melhores práticas, organização de pastas, configurações e dependências mais utilizadas.
 
